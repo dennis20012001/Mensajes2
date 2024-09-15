@@ -6,8 +6,8 @@ import java.util.List;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-import javax.swing.border.EmptyBorder;
 import javax.swing.border.BevelBorder;
+import javax.swing.border.EmptyBorder;
 
 public class Paneles extends JFrame {
 	private static final long serialVersionUID = 1L;
